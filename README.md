@@ -1,4 +1,5 @@
-Pasos a seguir para el entrenamiento del modelo:
+# Modelo 
+Guía de pasos que se van a seguir para el entrenamiento del modelo con machine learning
 
 1. **Recolección de Datos**:
    - **Datos de Estudiantes**: Información académica, habilidades, experiencia previa, calificaciones, etc.
@@ -27,3 +28,11 @@ Pasos a seguir para el entrenamiento del modelo:
 7. **Recomendación de Empleos**:
    - Utilizar el modelo entrenado para predecir la probabilidad de que un estudiante consiga un empleo en diferentes puestos.
    - Ordenar las recomendaciones basadas en estas probabilidades.
+
+## Aplicación
+
+1. **Recolección de Datos**:
+
+| fasd    | fdasdf    |
+| --- | --- |
+|    fda |     fda|
